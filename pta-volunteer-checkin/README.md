@@ -1,5 +1,5 @@
 ## PTA Volunteer Checkin
-Expanding upon the tool created by Stephen Sherrard for 'Volunteer Sign Up Sheets', I had a need to be able to create a kiosk based check in and out system utilizing the data from the sign up sheets generated within Stephen's Wordpress Plugin. Thus, this simple plugin was born.
+Expanding upon the tool created by Stephen Sherrard for 'Volunteer Sign Up Sheets', I had a need to be able to create a kiosk based check in and out system utilizing the data from the sign up sheets generated within [Stephen's Wordpress Plugin](https://stephensherrardplugins.com/plugins/pta-volunteer-sign-up-sheets/). Thus, this simple plugin was born.
 
 It is a single file contained in a folder to do everything from the kiosk page to the pack end admin.  To use the plugin, create a folder in your 'wp-content/plugins/' of your Wordpress installation called 'pta-volunteer-checkin' and then place the 'pta-volunteer-checkin.php' file within that folder. Once you open up the plugins page from within Wordpress, you will be able to activate the plugin called "Volunteer Sign Up Sheets - Kiosk Ultimate".
 
